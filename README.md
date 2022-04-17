@@ -1,5 +1,5 @@
 # Taiwan Stock
-(繁體中文)[/README.md] (簡體中文)[/readme/zh_CN.md] (English)[/readme/English.md]
+[繁體中文](/README.md) [簡體中文](/readme/zh_CN.md) [English](/readme/English.md)
 
 ## 介紹 Introduction
 這是一款可以針對臺灣證券交易所的股票資訊進行呈現，將您想看到的股票顯示出來。

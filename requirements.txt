@@ -1,0 +1,4 @@
+twstock
+pandas
+plotly
+lxml
